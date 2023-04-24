@@ -1,4 +1,5 @@
 import { Html, Head, Main, NextScript, } from 'next/document'
+import Navigation from '../../components/Navigation'
 
 export default function Document() {
   return (
@@ -6,7 +7,8 @@ export default function Document() {
       <Head />
       <body>
         <Main />
-        <NextScript />
+        <NextScript /><br/>
+      <footer><Navigation /></footer>
       </body>
     </Html>
   )

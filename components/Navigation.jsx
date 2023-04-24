@@ -5,13 +5,13 @@ function Navigation() {
     <div>
 <ul>
   <li>
-    <Link href="/">Inicio</Link>
+    <Link href="/"><strong>Inicio</strong></Link>
   </li>
   <li>
-    <Link href="/about">Sobre Nosotros</Link>
+    <Link href="/recipebook"><strong>Recetario</strong></Link>
   </li>
   <li>
-    <Link href="/recipebook">Recetario</Link>
+    <Link href="/about"><strong>Sobre nosotros</strong></Link>
   </li>
 </ul>
     </div>

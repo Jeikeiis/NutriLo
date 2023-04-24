@@ -1,6 +1,5 @@
 import Head from 'next/head'
 import { Inter } from 'next/font/google'
-import Navigation from '../../components/Navigation'
 
 const inter = Inter({ subsets: ['latin'] })
 
@@ -17,7 +16,6 @@ function IndexPage() {
     </div>
     </div>
     </div><br/>
-    <Navigation />
     </div>
    
   )

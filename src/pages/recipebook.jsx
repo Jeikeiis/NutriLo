@@ -5,7 +5,7 @@ function recipebook() {
     <div>
       <div class="flex">
         <div class="main">
-        <center><h2>Aquí tienes un recetario de 1 cosas sencillas y deliciosas:</h2></center><br />
+        <center><h2>Aquí tienes un recetario de 1 cosas sencillas y deliciosas:</h2></center><br/><br/>
         <fieldset class="fieldstinto">
         <div><h3>Ensalada de tomate y queso fresco:</h3>
 <li>2 tomates maduros, cortados en rodajas finas</li>
