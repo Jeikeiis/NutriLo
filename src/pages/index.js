@@ -7,7 +7,6 @@ function IndexPage() {
   return (
     
     <div>
-      {children}
       <div class="flex">
       <div class="header"><br />
       <div class="introheader1"><fieldset><p><strong>Bienvenidos a nuestra página de nutrición, donde promovemos un estilo de vida saludable a través de la alimentación balanceada y la actividad física.</strong><br/> <br/> En este sitio, encontrarás información detallada sobre nutrición, recetas saludables y consejos para mejorar tu bienestar general. Nuestro enfoque se basa en la evidencia científica y nuestro objetivo es ayudarte a alcanzar tus metas de salud y bienestar a largo plazo.
