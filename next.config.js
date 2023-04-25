@@ -1,7 +1,8 @@
-/** @type {import('next').NextConfig} */
+/**
+ * @type {import('next').NextConfig}
+ */
 const nextConfig = {
-reactStrictMode: true,
-exclude: [/\.jpg$/, /\.jpeg$/, /\.png$/, /\.gif$/, /\.svg$/],
+  /* config options here */
 }
 
 module.exports = nextConfig

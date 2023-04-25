@@ -186,19 +186,17 @@ fieldset {
   text-align: center;
   border-radius: 10px;
   box-shadow: 0 0 0px rgba(0, 0, 0, 0.2), 2px 2px 4px #888;
-  height: 100%;
-  margin: 2em;
 }
 
 footer {
-  background-color: white;
+  background-color: lightyellow;
   color: white;
   grid-column: 1 / 6;
   grid-row: 4 / 5;
   text-align: center;
   border-radius: 10px;
   box-shadow: 0 0 0px rgba(0, 0, 0, 0.2), 2px 2px 4px #888;
-  height: 100%;
+  
   padding: 1%;
 }
 
