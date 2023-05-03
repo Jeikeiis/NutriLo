@@ -3,6 +3,9 @@ import React from 'react';
 function recipebook() {
   return (
     <div>
+<head>
+<title>NutriLo</title>
+</head>
       <div class="flex">
         <div class="main">
         <center><h2>Aquí tienes un recetario de 1 cosas sencillas y deliciosas:</h2></center><br/><br/>
