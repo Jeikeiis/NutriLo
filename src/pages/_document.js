@@ -4,6 +4,7 @@ import Navigation from '../../components/Navigation'
 export default function Document() {
   return (
     <Html lang="es">
+      <title>NutriLo</title>
       <Head />
       <body>
         <Main />
